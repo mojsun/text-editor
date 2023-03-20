@@ -46,6 +46,6 @@ myself- also I received help from vasily and bcs ask .
 
 ## Questions
 
-My GitHub name is vl1. Most of the answers to the questions can be found there, here is the link to my profile at GitHub: https://github.com/mojsun
+here is the link to my profile at GitHub: https://github.com/mojsun
 
 For additional questions please e-mail to m.khorashahi7@gmail.com
