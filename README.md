@@ -32,6 +32,8 @@ This application is hosted in Heroku cloud and requires no initial installation 
 
 Please run use the following link to run it in the browser
 
+https://serene-refuge-14381.herokuapp.com/
+
 ## Credits
 
 Node.js, Express, IndexedDB ,Service Worker, PWA , Babel
